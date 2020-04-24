@@ -1,0 +1,10 @@
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\bin\Debug\20203179 이나린_예제3.exe.config
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\bin\Debug\20203179 이나린_예제3.exe
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\bin\Debug\20203179 이나린_예제3.pdb
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\20203179 이나린_예제3.csprojAssemblyReference.cache
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\_20203179_이나린_예제3.Form1.resources
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\_20203179_이나린_예제3.Properties.Resources.resources
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\20203179 이나린_예제3.csproj.GenerateResource.cache
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\20203179 이나린_예제3.csproj.CoreCompileInputs.cache
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\20203179 이나린_예제3.exe
+C:\Users\이나린\Desktop\C# 예제\3주차\20203179 이나린_예제3\obj\Debug\20203179 이나린_예제3.pdb

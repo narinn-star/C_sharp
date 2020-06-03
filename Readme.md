@@ -30,4 +30,10 @@ Begin : 2020.04.28 ~
   
   ​	
   
-  > [9 Week](https://github.com/narinn-star/C_sharp/tree/master/9%20Week)
+  >[9 Week](https://github.com/narinn-star/C_sharp/tree/master/9%20Week)
+  
+  
+  
+  > [10 Week](https://github.com/narinn-star/C_sharp/tree/master/10%20Week)
+  
+  

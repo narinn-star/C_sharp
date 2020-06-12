@@ -25,63 +25,63 @@ namespace _20203179_이나린_예제3
             listBox1.Items.Add("선택차종:");
             if (radioButton1.Checked == true)
             {
-                listBox1.Items.Add("       승용차");
+                listBox1.Items.Add("           승용차");
                 price += 100;
                 label5.Image = Properties.Resources.car_1;
             }
             else if (radioButton2.Checked == true)
             {
-                listBox1.Items.Add("       트럭");
+                listBox1.Items.Add("           트럭");
                 price += 80;
                 label5.Image = Properties.Resources.car_2;
             }
             else if (radioButton3.Checked == true)
             {
-                listBox1.Items.Add("       봉고차");
+                listBox1.Items.Add("           봉고차");
                 price += 50;
                 label5.Image = Properties.Resources.car_3;
             }
 
-            listBox1.Items.Add("----------------");
+            listBox1.Items.Add("----------------------");
             listBox1.Items.Add("선택옵션:");
             if (checkBox1.Checked == true)
             {
-                listBox1.Items.Add("        썬루프");
+                listBox1.Items.Add("            썬루프");
                 price += 1;
             }
             else if (checkBox2.Checked == true)
             {
-                listBox1.Items.Add("        자동온도조절장치");
+                listBox1.Items.Add("            자동온도조절장치");
                 price += 2;
             }
             else if (checkBox3.Checked == true)
             {
-                listBox1.Items.Add("        GPS");
+                listBox1.Items.Add("            GPS");
                 price += 3;
             }
             else if (checkBox4.Checked == true)
             {
-                listBox1.Items.Add("        도난방지시스템");
-                price += 2;
+                listBox1.Items.Add("            도난방지시스템");
+                price += 2; 
             }
             else if (checkBox5.Checked == true)
             {
-                listBox1.Items.Add("        에어백");
+                listBox1.Items.Add("            에어백");
                 price += 10;
             }
 
-            listBox1.Items.Add("-----------------");
+            listBox1.Items.Add("----------------------");
             listBox1.Items.Add("결재방법:");
             if (comboBox1.SelectedIndex == 0)
-                listBox1.Items.Add("        일시불");
+                listBox1.Items.Add("            일시불");
             else if (comboBox1.SelectedIndex == 1)
-                listBox1.Items.Add("        무통장입금");
+                listBox1.Items.Add("            무통장입금");
             else if (comboBox1.SelectedIndex == 2)
-                listBox1.Items.Add("        신용카드");
+                listBox1.Items.Add("            신용카드");
 
-            listBox1.Items.Add("-----------------");
+            listBox1.Items.Add("----------------------");
             listBox1.Items.Add("견적금액:");
-            listBox1.Items.Add("       " + price + "만원");
+            listBox1.Items.Add("            " + price + "만원");
             label6.Text = "견적가 : " + price + "만원";
         }
     }

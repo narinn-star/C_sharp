@@ -14,6 +14,7 @@ namespace _20203179_이나린_예제2
     {
         bool Drag = false;
         Point pPoint;
+
         public Form1()
         {
             InitializeComponent();
